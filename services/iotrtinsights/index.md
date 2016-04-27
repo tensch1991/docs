@@ -17,7 +17,7 @@ copyright:
 With {{site.data.keyword.iotrtinsights_full}} on Bluemix ({{site.data.keyword.iotrtinsights_short}}), you can perform analytics on real-time data from your Internet of Things devices, and gain insights about their health and the overall state of your operations.
 {:shortdesc}
 
-Before you can start using {{site.data.keyword.iotrtinsights_short}} you must set up the {{site.data.keyword.iot_full}} service ({{site.data.keyword.iot_short}}) to connect your analytics engine to your devices.  You can use an existing {{site.data.keyword.iot_short}} service or create a new one. To quickly get up and running your can deploy the Internet of Things phone application and its associated {{site.data.keyword.iot_short}} service to your organization.
+Before you can start using {{site.data.keyword.iotrtinsights_short}} you must set up the {{site.data.keyword.iot_full}} service ({{site.data.keyword.iot_short}}) to connect your analytics engine to your devices.  You can use an existing {{site.data.keyword.iot_short}} service or create a new one. To quickly get up and running you can deploy the Internet of Things phone application and its associated {{site.data.keyword.iot_short}} service to your organization.
 
 To get up and running quickly with this service, follow these steps:
 1. Deploy the {{site.data.keyword.iotrtinsights_short}} service to your Bluemix organization.
